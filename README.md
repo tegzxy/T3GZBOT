@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<a href="#"><img title="👾T3G4RXZY👾" src="https://img.shields.io/badge/T3G4RXZY-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="👾POWFU X BOT👾" src="https://img.shields.io/badge/T3G4RXZY-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/A187ID"><img title="Author" src="https://img.shields.io/badge/AUTHOR-T3G4RXZY ID-orange.svg?style=for-the-badge&logo=github"></a>
@@ -120,3 +120,4 @@ Ket: Aktiv 24 jam
 * [`Alfbot`](https://github.com/alfiansx/alfbot)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
+ 
